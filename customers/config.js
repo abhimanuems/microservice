@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.model("custmer",{
+mongoose.model("custmers",{
     name :{
         type:String,
         require:true
